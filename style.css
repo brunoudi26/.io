@@ -2,10 +2,10 @@
 
 :root {
   --main-color: #d92123;
-  --primary-text-color: #e76262;
+  --primary-text-color: #fff;
   --secondary-text-color: #191919;
   --secondary-color: #868686;
-  --tertiary-color: #e76262;
+  --tertiary-color: #eff3f4;
   --secondary-bg-color: #5c1011;
 }
 
@@ -17,7 +17,6 @@
 }
 
 a {
-  background-color: #c04848;
   text-decoration: none;
 }
 
